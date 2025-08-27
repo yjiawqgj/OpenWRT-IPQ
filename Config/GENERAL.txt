@@ -105,3 +105,4 @@ CONFIG_PACKAGE_luci-app-taskplan=y
 CONFIG_PACKAGE_luci-app-diskman=y
 #测试
 CONFIG_PACKAGE_luci-app-adguardhome=y
+CONFIG_PACKAGE_luci-app-natfrp=y
